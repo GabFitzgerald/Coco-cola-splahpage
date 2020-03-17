@@ -1,0 +1,13 @@
+.center {
+    text-align: center;
+}
+
+#message {
+    font-size: 2em;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+
+body {
+    background-image: url(https://gtimg.tokyo2020.org/image/private/t_homepage_torch_lead_image_largedesktop/v1582450817/production/z0gqw1hwgjcfelu65lcs);
+}
